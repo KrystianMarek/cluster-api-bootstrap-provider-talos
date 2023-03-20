@@ -44,6 +44,8 @@ rules:
   - clusters/status
   - machines
   - machines/status
+  - machinepools
+  - machinepools/status
   verbs:
   - get
   - list
